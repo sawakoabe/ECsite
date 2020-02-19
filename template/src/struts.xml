@@ -37,9 +37,9 @@
 
 
 			<!--BuyItemAction -->
-<!-- 			<action name="BuyItemAction" class="com.internousdev.templete.action.BuyItemAction" method="execute"> -->
-<!-- 				<result name="success">buyItemConfirm.jsp</result> -->
-<!-- 			</action> -->
+			<action name="BuyItemAction" class="com.internousdev.templete.action.BuyItemAction" method="execute">
+				<result name="success">buyItemConfirm.jsp</result>
+			</action>
 
 
 			<!--BuyItemConfirmAction -->
